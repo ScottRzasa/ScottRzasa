@@ -17,3 +17,13 @@ p, a{
     font-size: 14px;
     color: #000;
 }
+
+nav{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    padding: 2em;
+    display: flex;
+    align-items: center;
+    z-index: 2;
+}
